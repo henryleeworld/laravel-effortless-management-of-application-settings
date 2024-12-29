@@ -1,4 +1,4 @@
-# Laravel 10 輕鬆管理應用程式設定
+# Laravel 11 輕鬆管理應用程式設定
 
 引入 sajadsdi 的 laravel-setting-pro 套件來擴增輕鬆管理應用程式設定，提供了一種簡單有效的方法來處理應用程式設定，並支援使用檔案型和資料庫驅動的永續性儲存體。
 
@@ -26,5 +26,5 @@ $ php artisan migrate
 ----
 
 ## 畫面截圖
-![](https://i.imgur.com/2E6gL5F.png)
+![](https://i.imgur.com/XZBv0Xg.png)
 > 每個應用都可能需要不同設定
